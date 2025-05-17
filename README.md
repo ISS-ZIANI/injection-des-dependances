@@ -48,6 +48,7 @@ IMetier metier = context.getBean(IMetier.class);
 
 📷 Capture de résultat
 Exemple de sortie affichée par PresSpringAnnotation.java :
+![Résultat de l'exécution](./screenshot/de1.PNG)
 
 
 
